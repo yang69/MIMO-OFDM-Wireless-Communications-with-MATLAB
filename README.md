@@ -8,6 +8,7 @@ MATLAB Code for MIMO-OFDM Wireless Communications with MATLAB
 - Author: Yong Soo Cho, Jaekwon Kim, Won Young Yang and Chung G. Kang    
 - Official Website: [http://www.wiley.com//legacy/wileychi/cho/](http://www.wiley.com//legacy/wileychi/cho/)    
 - Buy this Book：[https://item.jd.com/11255583.html](https://item.jd.com/11255583.html)    
+- 代码打包下载：[MIMO-OFDM-Wireless-Communications-with-MATLAB-backup201703031327.7z](./zip-file/MIMO-OFDM-Wireless-Communications-with-MATLAB-backup201703031327.7z)  
 
 ## 注：    
 - **添加了部分中文注释、写明了部分代码所对应的公式页码（中文版）**    
